@@ -1,0 +1,6 @@
+{
+    "item.ores.copper_ingot": "Copper Ingot",
+    "block.ores.firstblock": "Copper Block",
+    "block.ores.copper_ore" : "Copper Ore",
+    "ItemGroup.ores": "Ores"
+}
